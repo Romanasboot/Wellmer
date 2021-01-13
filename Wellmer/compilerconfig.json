@@ -1,0 +1,7 @@
+﻿//Web Compiler pletinio konfiruracija.
+[
+  {
+    "outputFile": "wwwroot/css/main.css",
+    "inputFile": "wwwroot/sass/main.scss"
+  }
+]

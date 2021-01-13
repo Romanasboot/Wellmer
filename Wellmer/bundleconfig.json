@@ -1,0 +1,13 @@
+//Bundler-Minifier pletionio konfiguracija. Apjungia ir minifikuoja keleta js failu i viena.
+[
+  {
+    "outputFileName": "wwwroot/js/scripts.js",
+    "inputFiles": [
+      "wwwroot/js/jquery.js",
+      "wwwroot/js/breakpoints.min.js",
+      "wwwroot/js/browser.min.js",
+      "wwwroot/js/main.js",
+      "wwwroot/js/util.js"
+    ]
+  }
+]
